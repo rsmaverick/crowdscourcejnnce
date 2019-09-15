@@ -1,3 +1,3 @@
 # crowdscourcejnnce
 
-JNNCE Crowd Sourcing 1
+Crowd Sourcing in JNNCE MCA
